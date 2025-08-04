@@ -3,13 +3,13 @@
 
 # [[Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia]]
 
-
-# Summary/Notes
-
 ## Players
 - [[Oo Long]], Level 6 Bard ([[Laura]])
 - [[Cirilla]], Level 6 Wizard ([[Lauren]])
 - [[Woe]], Level 6 Cleric ([[Brian]])
+
+# Summary/Notes
+The players successfully beat back Rite Aid, a logger hired by [[Cedrax]] to cut down the healthy trees on [[Ha’aretsia]] in spite of the growing fungi pandemic. 
 
 ## Major Events
 - Starting balance: 26,500
@@ -32,6 +32,4 @@
 - Need 10 to make suit, Woe gets 2 bits of scrap 
 - One of scraps get engraved with holy symbol 
 - Found 520 gold on dead [[Rite Aid]]
-
-## Stuff to Remember for Next Session
 

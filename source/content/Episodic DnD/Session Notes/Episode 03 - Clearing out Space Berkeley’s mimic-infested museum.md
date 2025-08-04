@@ -3,9 +3,6 @@
 
 # [[Episode 03 - Clearing out Space Berkeley’s mimic-infested museum]]
 
-
-# Summary/Notes
-
 ## Players
 - [[Oo Long]], Level 5 Bard ([[Laura]])
 - [[Cirilla]], Level 5 Wizard ([[Lauren]])

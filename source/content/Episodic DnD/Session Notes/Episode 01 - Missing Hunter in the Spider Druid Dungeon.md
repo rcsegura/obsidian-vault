@@ -3,9 +3,6 @@
 
 # [[Episode 01 - Missing Hunter in the Spider Druid Dungeon]]
 
-
-# Summary/Notes
-
 ## Players
 - [[Oo Long]], Level 5 Bard ([[Laura]])
 - [[Cirilla]], Level 5 Wizard ([[Lauren]])
