@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Some note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of index"
             }
           }
         ]
@@ -184,11 +169,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
-    "category-folder/Some note.md",
     "category-folder/index.md",
+    "category-folder/Some note.md",
+    "Misc tags/Brian.md",
+    "Misc tags/Episodic DnD.md",
+    "Misc tags/library.md",
+    "Misc tags/district.md",
+    "Misc tags/town plaza.md",
+    "Misc tags/shopkeep.md",
+    "Misc tags/Inn.md",
+    "Misc tags/Maztica Monsters.md",
+    "Misc tags/Coohleen.md",
+    "Misc tags/Marco.md",
+    "Misc tags/Laura.md",
+    "Misc tags/Jessy.md",
+    "Misc tags/Ashlyn.md",
+    "Misc tags/Joe.md",
+    "Misc tags/Alicia.md",
+    "Misc tags/Gus.md",
+    "Misc tags/Robin.md",
+    "Misc tags/Lauren.md",
+    "Misc tags/Players.md",
+    "Misc tags/gods.md",
+    "Misc tags/Lost City of Mezro Campaign.md",
+    "Misc tags/Enemies.md",
+    "Misc tags/shops.md",
+    "Misc tags/items.md",
+    "Misc tags",
+    "Episodic DnD/DM planning",
+    "Episodic DnD/PCs",
+    "Episodic DnD/NPCs",
+    "Episodic DnD/Locations/hidden_valley.png",
+    "Episodic DnD/Locations/session07_option1.png",
+    "Episodic DnD/Locations",
+    "Episodic DnD/Session Notes",
+    "Episodic DnD",
     "category-folder"
   ]
 }
