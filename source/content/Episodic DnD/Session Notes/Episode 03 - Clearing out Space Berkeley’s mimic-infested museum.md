@@ -1,7 +1,7 @@
 ## Links:
 [[Episodic DnD]]
 
-# [[Episode 3 - Clearing out Space Berkeley’s mimic-infested museum]]
+# [[Episode 03 - Clearing out Space Berkeley’s mimic-infested museum]]
 
 
 # Summary/Notes

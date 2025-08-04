@@ -1,7 +1,7 @@
 ## Links:
 [[Episodic DnD]]
 
-# [[Episode 4 - Rite Aid, cuttin’ down trees on Ha’aretsia]]
+# [[Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia]]
 
 
 # Summary/Notes

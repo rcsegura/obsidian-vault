@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Episodic DnD/Locations/Player's Ship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Player's Ship"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Episodic DnD/Session Notes/Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Episodic DnD/Session Notes/Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Episodic DnD/Session Notes/Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Episodic DnD/Job Board.md",
+    "Episodic DnD/Session Notes/Episode 04 - Rite Aid, cuttin’ down trees on Ha’aretsia.md",
+    "Episodic DnD/Session Notes/Episode 03 - Clearing out Space Berkeley’s mimic-infested museum.md",
     "index.md",
+    "Episodic DnD/Job Board.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Misc tags/Brian.md",
@@ -195,8 +197,6 @@
     "Misc tags/Lauren.md",
     "Misc tags/Players.md",
     "Misc tags/gods.md",
-    "Misc tags/Lost City of Mezro Campaign.md",
-    "Misc tags/Enemies.md",
     "Misc tags",
     "Episodic DnD/DM planning",
     "Episodic DnD/PCs",
