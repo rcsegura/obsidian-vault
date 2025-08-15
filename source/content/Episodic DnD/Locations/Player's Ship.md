@@ -4,6 +4,8 @@ The ship was purchased from [[Gob Dom]] at the beginning of the campaign, and is
 
 As part of making the ship a stronghold, PCs can add facilities to the ship to increase their capacity for adventuring. At the start of each session, each player can have their character do one action in one of the facilities. PC's can double-dip, i.e. two characters can start in the garden to get two potions. 
 
+--- 
+
 # Current Facilities on Ship:
 
 ## Garden
